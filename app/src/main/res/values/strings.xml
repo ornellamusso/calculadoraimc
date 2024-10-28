@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">calculadoraIMC</string>
+
+    <string name="underWeight">Under weight</string>
+    <string name="normalWeight">Normal weight</string>
+    <string name="overWeight">Overweight</string>
+    <string name="obesity">Obesity</string>
+    <string name="obesityExtreme">Extreme obesity</string>
+
+</resources>
